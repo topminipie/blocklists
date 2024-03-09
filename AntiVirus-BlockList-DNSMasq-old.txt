@@ -1,0 +1,111 @@
+# Title: AntiVirus-BlockLists
+# Description: Block all AntiVirus software.
+# Homepage: https://github.com/topminipie/AntiVirus-BlockList
+# License: https://github.com/topminipie/AntiVirus-BlockList/blob/main/LICENSE
+# Issues: https://github.com/topminipie/AntiVirus-BlockList/issues
+# Expires: 5 day
+# Version: 2024.02.02-1
+# Syntax: DNSMasq v2.85 or older (IDN2 compatible)
+#
+# Avast
+server=/avastbrowser.com/
+server=/avast.cn/
+server=/avast.co.jp/
+server=/avast.com/
+server=/avast.cz/
+server=/avastdns.com/
+server=/avast.ua/
+server=/avcdn.net/
+server=/ns1dnsavast.com/
+# AVG
+server=/avgbrowser.com/
+server=/avg.com/
+server=/avg.cz/
+server=/nos-avg.cz/
+# Avira
+server=/avira.com/
+server=/avira.net/
+server=/avira-update.com/
+# Adaware
+server=/adaware.com/
+server=/lavasoft.com/
+# AhnLab
+server=/ahnlab.com/
+# BitDefender
+server=/bitdefender.com/
+server=/bitdefender.net/
+# CCleaner
+server=/ccleanerbrowser.com/
+server=/ccleaner.com/
+server=/ccleaner.tools.avcdn.net/
+# ClamAV
+server=/clamav.net/
+# Comodo
+server=/comodo.com/
+server=/comododns.com/
+server=/comododns.net/
+# ESET
+server=/e5.sk/
+server=/eset.com/
+server=/eset.eu/
+server=/eset.extole.io/
+server=/eset.sk/
+server=/eset.systems/
+server=/welivesecurity.com/
+# F-Secure
+server=/fsapi.com/
+server=/f-secure.com/
+server=/f-secure.com.pl/
+server=/f-secure.net/
+# Kaspersky
+server=/kas-labs.com/
+server=/kaspersky.com/
+server=/kaspersky.com.au/
+server=/kaspersky-labs.com/
+server=/labkas.com/
+# Malwarebytes
+server=/malwarebytes.com/
+server=/malwarebytes.org/
+server=/mbamupdates.com/
+server=/mb-cosmos.com/
+server=/mwbsys.com/
+# Mcafee
+server=/hackerwatch.org/
+server=/mcafee-cloud.com/
+server=/mcafee.com/
+server=/mcafeemobilesecurity.com/
+server=/mcafee.net/
+server=/mcafeewebadvisor.com/
+server=/trustedsource.org/
+# Norton
+server=/lifelock.com/
+server=/nortoncdn.com/
+server=/norton.com/
+server=/nortonlifelock.com/
+# Panda Security
+server=/cytomic.ai/
+server=/cytomicmodel.com/
+server=/pandasecurity.com/
+server=/pandasoftware.com/
+# Qihoo 360 / 360 Total Security
+server=/360.cn/
+server=/360.com/
+server=/360os.com/
+server=/360qhcdn.com/
+server=/360safe.com/
+server=/360securityapps.com/
+server=/360totalsecurity.com/
+server=/360tres.com/
+server=/50union.com/
+server=/qhimg.com/
+server=/qh-lb.com/
+server=/qhstatic.com/
+server=/qihucdn.com/
+server=/qiku.com/
+# Symantec
+server=/symantec.com/
+server=/symantecliveupdate.com/
+server=/symantec.net/
+server=/symcd.com/
+# Dr. Web
+server=/drweb.com/

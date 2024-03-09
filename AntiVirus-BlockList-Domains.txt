@@ -1,0 +1,111 @@
+# Title: AntiVirus-BlockLists
+# Description: Block all AntiVirus software.
+# Homepage: https://github.com/topminipie/AntiVirus-BlockList
+# License: https://github.com/topminipie/AntiVirus-BlockList/blob/main/LICENSE
+# Issues: https://github.com/topminipie/AntiVirus-BlockList/issues
+# Expires: 5 day
+# Version: 2024.02.02-1
+# Syntax: Domains (without subdomains)
+#
+# Avast
+avastbrowser.com
+avast.cn
+avast.co.jp
+avast.com
+avast.cz
+avastdns.com
+avast.ua
+avcdn.net
+ns1dnsavast.com
+# AVG
+avgbrowser.com
+avg.com
+avg.cz
+nos-avg.cz
+# Avira
+avira.com
+avira.net
+avira-update.com
+# Adaware
+adaware.com
+lavasoft.com
+# AhnLab
+ahnlab.com
+# BitDefender
+bitdefender.com
+bitdefender.net
+# CCleaner
+ccleanerbrowser.com
+ccleaner.com
+ccleaner.tools.avcdn.net
+# ClamAV
+clamav.net
+# Comodo
+comodo.com
+comododns.com
+comododns.net
+# ESET
+e5.sk
+eset.com
+eset.eu
+eset.extole.io
+eset.sk
+eset.systems
+welivesecurity.com
+# F-Secure
+fsapi.com
+f-secure.com
+f-secure.com.pl
+f-secure.net
+# Kaspersky
+kas-labs.com
+kaspersky.com
+kaspersky.com.au
+kaspersky-labs.com
+labkas.com
+# Malwarebytes
+malwarebytes.com
+malwarebytes.org
+mbamupdates.com
+mb-cosmos.com
+mwbsys.com
+# Mcafee
+hackerwatch.org
+mcafee-cloud.com
+mcafee.com
+mcafeemobilesecurity.com
+mcafee.net
+mcafeewebadvisor.com
+trustedsource.org
+# Norton
+lifelock.com
+nortoncdn.com
+norton.com
+nortonlifelock.com
+# Panda Security
+cytomic.ai
+cytomicmodel.com
+pandasecurity.com
+pandasoftware.com
+# Qihoo 360 / 360 Total Security
+360.cn
+360.com
+360os.com
+360qhcdn.com
+360safe.com
+360securityapps.com
+360totalsecurity.com
+360tres.com
+50union.com
+qhimg.com
+qh-lb.com
+qhstatic.com
+qihucdn.com
+qiku.com
+# Symantec
+symantec.com
+symantecliveupdate.com
+symantec.net
+symcd.com
+# Dr. Web
+drweb.com

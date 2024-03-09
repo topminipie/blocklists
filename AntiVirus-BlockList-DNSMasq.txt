@@ -1,0 +1,111 @@
+# Title: AntiVirus-BlockLists
+# Description: Block all AntiVirus software.
+# Homepage: https://github.com/topminipie/AntiVirus-BlockList
+# License: https://github.com/topminipie/AntiVirus-BlockList/blob/main/LICENSE
+# Issues: https://github.com/topminipie/AntiVirus-BlockList/issues
+# Expires: 5 day
+# Version: 2024.02.02-1
+# Syntax: DNSMasq v2.86 or newer
+#
+# Avast
+local=/avastbrowser.com/
+local=/avast.cn/
+local=/avast.co.jp/
+local=/avast.com/
+local=/avast.cz/
+local=/avastdns.com/
+local=/avast.ua/
+local=/avcdn.net/
+local=/ns1dnsavast.com/
+# AVG
+local=/avgbrowser.com/
+local=/avg.com/
+local=/avg.cz/
+local=/nos-avg.cz/
+# Avira
+local=/avira.com/
+local=/avira.net/
+local=/avira-update.com/
+# Adaware
+local=/adaware.com/
+local=/lavasoft.com/
+# AhnLab
+local=/ahnlab.com/
+# BitDefender
+local=/bitdefender.com/
+local=/bitdefender.net/
+# CCleaner
+local=/ccleanerbrowser.com/
+local=/ccleaner.com/
+local=/ccleaner.tools.avcdn.net/
+# ClamAV
+local=/clamav.net/
+# Comodo
+local=/comodo.com/
+local=/comododns.com/
+local=/comododns.net/
+# ESET
+local=/e5.sk/
+local=/eset.com/
+local=/eset.eu/
+local=/eset.extole.io/
+local=/eset.sk/
+local=/eset.systems/
+local=/welivesecurity.com/
+# F-Secure
+local=/fsapi.com/
+local=/f-secure.com/
+local=/f-secure.com.pl/
+local=/f-secure.net/
+# Kaspersky
+local=/kas-labs.com/
+local=/kaspersky.com/
+local=/kaspersky.com.au/
+local=/kaspersky-labs.com/
+local=/labkas.com/
+# Malwarebytes
+local=/malwarebytes.com/
+local=/malwarebytes.org/
+local=/mbamupdates.com/
+local=/mb-cosmos.com/
+local=/mwbsys.com/
+# Mcafee
+local=/hackerwatch.org/
+local=/mcafee-cloud.com/
+local=/mcafee.com/
+local=/mcafeemobilesecurity.com/
+local=/mcafee.net/
+local=/mcafeewebadvisor.com/
+local=/trustedsource.org/
+# Norton
+local=/lifelock.com/
+local=/nortoncdn.com/
+local=/norton.com/
+local=/nortonlifelock.com/
+# Panda Security
+local=/cytomic.ai/
+local=/cytomicmodel.com/
+local=/pandasecurity.com/
+local=/pandasoftware.com/
+# Qihoo 360 / 360 Total Security
+local=/360.cn/
+local=/360.com/
+local=/360os.com/
+local=/360qhcdn.com/
+local=/360safe.com/
+local=/360securityapps.com/
+local=/360totalsecurity.com/
+local=/360tres.com/
+local=/50union.com/
+local=/qhimg.com/
+local=/qh-lb.com/
+local=/qhstatic.com/
+local=/qihucdn.com/
+local=/qiku.com/
+# Symantec
+local=/symantec.com/
+local=/symantecliveupdate.com/
+local=/symantec.net/
+local=/symcd.com/
+# Dr. Web
+local=/drweb.com/

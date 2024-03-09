@@ -1,0 +1,112 @@
+# Title: AntiVirus-BlockLists
+# Description: Block all AntiVirus software.
+# Homepage: https://github.com/topminipie/AntiVirus-BlockList
+# License: https://github.com/topminipie/AntiVirus-BlockList/blob/main/LICENSE
+# Issues: https://github.com/topminipie/AntiVirus-BlockList/issues
+# Expires: 5 day
+# Version: 2024.02.02-1
+# Syntax: Unbound
+#
+server:
+# Avast
+local-zone: "avastbrowser.com." always_nxdomain
+local-zone: "avast.cn." always_nxdomain
+local-zone: "avast.co.jp." always_nxdomain
+local-zone: "avast.com." always_nxdomain
+local-zone: "avast.cz." always_nxdomain
+local-zone: "avastdns.com." always_nxdomain
+local-zone: "avast.ua." always_nxdomain
+local-zone: "avcdn.net." always_nxdomain
+local-zone: "ns1dnsavast.com." always_nxdomain
+# AVG
+local-zone: "avgbrowser.com." always_nxdomain
+local-zone: "avg.com." always_nxdomain
+local-zone: "avg.cz." always_nxdomain
+local-zone: "nos-avg.cz." always_nxdomain
+# Avira
+local-zone: "avira.com." always_nxdomain
+local-zone: "avira.net." always_nxdomain
+local-zone: "avira-update.com." always_nxdomain
+# Adaware
+local-zone: "adaware.com." always_nxdomain
+local-zone: "lavasoft.com." always_nxdomain
+# AhnLab
+local-zone: "ahnlab.com." always_nxdomain
+# BitDefender
+local-zone: "bitdefender.com." always_nxdomain
+local-zone: "bitdefender.net." always_nxdomain
+# CCleaner
+local-zone: "ccleanerbrowser.com." always_nxdomain
+local-zone: "ccleaner.com." always_nxdomain
+local-zone: "ccleaner.tools.avcdn.net." always_nxdomain
+# ClamAV
+local-zone: "clamav.net." always_nxdomain
+# Comodo
+local-zone: "comodo.com." always_nxdomain
+local-zone: "comododns.com." always_nxdomain
+local-zone: "comododns.net." always_nxdomain
+# ESET
+local-zone: "e5.sk." always_nxdomain
+local-zone: "eset.com." always_nxdomain
+local-zone: "eset.eu." always_nxdomain
+local-zone: "eset.extole.io." always_nxdomain
+local-zone: "eset.sk." always_nxdomain
+local-zone: "eset.systems." always_nxdomain
+local-zone: "welivesecurity.com." always_nxdomain
+# F-Secure
+local-zone: "fsapi.com." always_nxdomain
+local-zone: "f-secure.com." always_nxdomain
+local-zone: "f-secure.com.pl." always_nxdomain
+local-zone: "f-secure.net." always_nxdomain
+# Kaspersky
+local-zone: "kas-labs.com." always_nxdomain
+local-zone: "kaspersky.com." always_nxdomain
+local-zone: "kaspersky.com.au." always_nxdomain
+local-zone: "kaspersky-labs.com." always_nxdomain
+local-zone: "labkas.com." always_nxdomain
+# Malwarebytes
+local-zone: "malwarebytes.com." always_nxdomain
+local-zone: "malwarebytes.org." always_nxdomain
+local-zone: "mbamupdates.com." always_nxdomain
+local-zone: "mb-cosmos.com." always_nxdomain
+local-zone: "mwbsys.com." always_nxdomain
+# Mcafee
+local-zone: "hackerwatch.org." always_nxdomain
+local-zone: "mcafee-cloud.com." always_nxdomain
+local-zone: "mcafee.com." always_nxdomain
+local-zone: "mcafeemobilesecurity.com." always_nxdomain
+local-zone: "mcafee.net." always_nxdomain
+local-zone: "mcafeewebadvisor.com." always_nxdomain
+local-zone: "trustedsource.org." always_nxdomain
+# Norton
+local-zone: "lifelock.com." always_nxdomain
+local-zone: "nortoncdn.com." always_nxdomain
+local-zone: "norton.com." always_nxdomain
+local-zone: "nortonlifelock.com." always_nxdomain
+# Panda Security
+local-zone: "cytomic.ai." always_nxdomain
+local-zone: "cytomicmodel.com." always_nxdomain
+local-zone: "pandasecurity.com." always_nxdomain
+local-zone: "pandasoftware.com." always_nxdomain
+# Qihoo 360 / 360 Total Security
+local-zone: "360.cn." always_nxdomain
+local-zone: "360.com." always_nxdomain
+local-zone: "360os.com." always_nxdomain
+local-zone: "360qhcdn.com." always_nxdomain
+local-zone: "360safe.com." always_nxdomain
+local-zone: "360securityapps.com." always_nxdomain
+local-zone: "360totalsecurity.com." always_nxdomain
+local-zone: "360tres.com." always_nxdomain
+local-zone: "50union.com." always_nxdomain
+local-zone: "qhimg.com." always_nxdomain
+local-zone: "qh-lb.com." always_nxdomain
+local-zone: "qhstatic.com." always_nxdomain
+local-zone: "qihucdn.com." always_nxdomain
+local-zone: "qiku.com." always_nxdomain
+# Symantec
+local-zone: "symantec.com." always_nxdomain
+local-zone: "symantecliveupdate.com." always_nxdomain
+local-zone: "symantec.net." always_nxdomain
+local-zone: "symcd.com." always_nxdomain
+# Dr. Web
+local-zone: "drweb.com." always_nxdomain
