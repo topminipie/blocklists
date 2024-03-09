@@ -1,10 +1,10 @@
 ! Title: CMP-BlockLists
 ! Description: Block all CMP.
-! Homepage: https://github.com/topminipie/CMP-BlockList
-! License: https://github.com/topminipie/CMP-BlockList/blob/main/LICENSE
-! Issues: https://github.com/topminipie/CMP-BlockList/issues
+! Homepage: https://github.com/topminipie/blocklists
+! License: https://github.com/topminipie/blocklists/blob/main/LICENSE
+! Issues: https://github.com/topminipie/blocklists/issues
 ! Expires: 5 day
-! Version: 2024.03.07-1
+! Version: 2024.03.09-1
 ! Syntax: AdBlock
 
 ||getadmiral.com^
@@ -98,8 +98,6 @@
 ||trustarc.com^
 ||usercentrics.com^
 ||webads.nl^
-
-From Hagezi
 ||cookiepro.com^
 ||cookie-bar.eu^
 ||cookieq.com^

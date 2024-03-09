@@ -1,8 +1,8 @@
 # Title: AntiVirus-BlockLists
 # Description: Block all AntiVirus software.
-# Homepage: https://github.com/topminipie/AntiVirus-BlockList
-# License: https://github.com/topminipie/AntiVirus-BlockList/blob/main/LICENSE
-# Issues: https://github.com/topminipie/AntiVirus-BlockList/issues
+# Homepage: https://github.com/topminipie/blocklists
+# License: https://github.com/topminipie/blocklists/blob/main/LICENSE
+# Issues: https://github.com/topminipie/blocklists/issues
 # Expires: 5 day
 # Version: 2024.02.02-1
 # Syntax: Domains (without subdomains)
