@@ -4,7 +4,7 @@
 ! License: https://github.com/topminipie/blocklists/blob/main/LICENSE
 ! Issues: https://github.com/topminipie/blocklists/issues
 ! Expires: 5 day
-! Version: 2024.03.09-1
+! Version: 2024.03.17-1
 ! Syntax: AdBlock
 
 ||getadmiral.com^
@@ -119,3 +119,4 @@
 ||cookiehub.eu^
 ||cookiehub.net^
 ||gatekeeperconsent.com^
+||setupcmp.com^
