@@ -16,3 +16,9 @@ Block all AntiVirus software.
 Block all CMP (Consent Management Platform/Provider).
 
 Adblock only: [Link](https://github.com/topminipie/blocklists/raw/main/CMP-BlockList-AdBlock.txt)
+
+## Bye-Bye-Google-BlockLists
+
+Block Evil Corp.
+
+Adblock only: [Link](https://github.com/topminipie/blocklists/raw/main/Bye-Bye-Google-BlockLists-AdBlock.txt)
